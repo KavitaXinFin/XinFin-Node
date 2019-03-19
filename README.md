@@ -93,11 +93,11 @@ Righ-click on the XinFin-XDC Masternode icon on desktop & click on "Run as admin
 
 
 ##  Setup For MAC Operating System (using Vagrant Environments).
-You need to download install below mention 3 Software:
+You need to download and install below-mentioned three softwares:
 1. Install Oracle [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 2. Install [Vagrant](https://www.vagrantup.com/downloads.html)
 3. Install [GIT](https://gitforwindows.org/)
-    After installation of above 3 Software (this may also need restart of your machine.)
+    After installation of above three Softwares, (this may also need restart of your machine.)
 4. Launch "command prompt" & follow the commands below  
    ```sh
     git clone https://github.com/XinFinOrg/XinFin-Node.git
@@ -105,13 +105,13 @@ You need to download install below mention 3 Software:
     vagrant up
     vagrant ssh
     ```
-5. XinFin-Node is automatically copied to /home/vagrant/ follow Step 1, 2 & 3 as explained before in this document to complete the node setup.
+5. XinFin-Node is automatically copied to /home/vagrant/ Follow Step 1, 2 & 3 as explained before in this document to complete the node setup.
 6. To shutdown the vagrant instance, run vagrant suspend. To delete it, run vagrant destroy.
 
 
 **Troubleshooting**
 
-Public discussions on the technical issues, post articles and request for Enhancements and Technical Contributions. 
+You can have public discussions on the technical issues, you can post articles and also request for enhancements and technical contribution. 
 
 [Slack Public Chat](https://launchpass.com/xinfin-public), 
 
